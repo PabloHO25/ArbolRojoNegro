@@ -1,0 +1,76 @@
+D:\Escritorio\ABB\ABB\bin\Debug\ABB.exe.config
+D:\Escritorio\ABB\ABB\bin\Debug\ABB.exe
+D:\Escritorio\ABB\ABB\bin\Debug\ABB.pdb
+D:\Escritorio\ABB\ABB\obj\Debug\ABB.csprojAssemblyReference.cache
+D:\Escritorio\ABB\ABB\obj\Debug\ABB.exe
+D:\Escritorio\ABB\ABB\obj\Debug\ABB.pdb
+F:\ABB\ABB\bin\Debug\ABB.exe.config
+F:\ABB\ABB\bin\Debug\ABB.exe
+F:\ABB\ABB\bin\Debug\ABB.pdb
+F:\ABB\ABB\obj\Debug\ABB.csprojAssemblyReference.cache
+F:\ABB\ABB\obj\Debug\ABB.exe
+F:\ABB\ABB\obj\Debug\ABB.pdb
+E:\ABB\ABB\bin\Debug\ABB.exe.config
+E:\ABB\ABB\bin\Debug\ABB.exe
+E:\ABB\ABB\bin\Debug\ABB.pdb
+E:\ABB\ABB\obj\Debug\ABB.csproj.AssemblyReference.cache
+E:\ABB\ABB\obj\Debug\ABB.csproj.CoreCompileInputs.cache
+E:\ABB\ABB\obj\Debug\ABB.exe
+E:\ABB\ABB\obj\Debug\ABB.pdb
+F:\EstructuraDatosAvanzadas\ABB\ABB\bin\Debug\ABB.exe.config
+F:\EstructuraDatosAvanzadas\ABB\ABB\bin\Debug\ABB.exe
+F:\EstructuraDatosAvanzadas\ABB\ABB\bin\Debug\ABB.pdb
+F:\EstructuraDatosAvanzadas\ABB\ABB\obj\Debug\ABB.exe
+F:\EstructuraDatosAvanzadas\ABB\ABB\obj\Debug\ABB.pdb
+E:\EstructuraDatosAvanzadas\ABB\ABB\obj\Debug\ABB.csproj.AssemblyReference.cache
+E:\EstructuraDatosAvanzadas\ABB\ABB\obj\Debug\ABB.csproj.CoreCompileInputs.cache
+E:\EstructuraDatosAvanzadas\ABB\ABB\obj\Debug\ABB.exe
+E:\EstructuraDatosAvanzadas\ABB\ABB\obj\Debug\ABB.pdb
+E:\EstructuraDatosAvanzadas\ABB\ABB\bin\Debug\ABB.exe.config
+E:\EstructuraDatosAvanzadas\ABB\ABB\bin\Debug\ABB.exe
+E:\EstructuraDatosAvanzadas\ABB\ABB\bin\Debug\ABB.pdb
+F:\EstructuraDatosAvanzadas\ABB\ABB\obj\Debug\ABB.csprojAssemblyReference.cache
+F:\EstructuraDatosAvanzadas\AVL\ABB\bin\Debug\ABB.exe.config
+F:\EstructuraDatosAvanzadas\AVL\ABB\bin\Debug\ABB.exe
+F:\EstructuraDatosAvanzadas\AVL\ABB\bin\Debug\ABB.pdb
+F:\EstructuraDatosAvanzadas\AVL\ABB\obj\Debug\ABB.exe
+F:\EstructuraDatosAvanzadas\AVL\ABB\obj\Debug\ABB.pdb
+E:\EstructuraDatosAvanzadas\AVL\ABB\bin\Debug\ABB.exe.config
+E:\EstructuraDatosAvanzadas\AVL\ABB\bin\Debug\ABB.exe
+E:\EstructuraDatosAvanzadas\AVL\ABB\bin\Debug\ABB.pdb
+E:\EstructuraDatosAvanzadas\AVL\ABB\obj\Debug\ABB.csproj.AssemblyReference.cache
+E:\EstructuraDatosAvanzadas\AVL\ABB\obj\Debug\ABB.csproj.CoreCompileInputs.cache
+E:\EstructuraDatosAvanzadas\AVL\ABB\obj\Debug\ABB.exe
+E:\EstructuraDatosAvanzadas\AVL\ABB\obj\Debug\ABB.pdb
+F:\EstructuraDatosAvanzadas\AVL\ABB\obj\Debug\ABB.csproj.AssemblyReference.cache
+F:\EstructuraDatosAvanzadas\AVL\ABB\obj\Debug\ABB.csproj.SuggestedBindingRedirects.cache
+F:\EstructuraDatosAvanzadas\AVL\ABB\obj\Debug\ABB.csproj.CoreCompileInputs.cache
+F:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\obj\Debug\ABB.csproj.AssemblyReference.cache
+F:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\obj\Debug\ABB.csproj.SuggestedBindingRedirects.cache
+F:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\obj\Debug\ABB.csproj.CoreCompileInputs.cache
+F:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\obj\Debug\ABB.exe
+F:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\obj\Debug\ABB.pdb
+F:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\bin\Debug\ABB.exe.config
+F:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\bin\Debug\ABB.exe
+F:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\bin\Debug\ABB.pdb
+E:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\bin\Debug\ABB.exe.config
+E:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\bin\Debug\ABB.exe
+E:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\bin\Debug\ABB.pdb
+E:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\obj\Debug\ABB.csproj.AssemblyReference.cache
+E:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\obj\Debug\ABB.csproj.CoreCompileInputs.cache
+E:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\obj\Debug\ABB.exe
+E:\EstructuraDatosAvanzadas\arbolesRojo-negro\AVL\ABB\obj\Debug\ABB.pdb
+C:\Users\Betania\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\bin\Debug\ABB.exe.config
+C:\Users\Betania\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\bin\Debug\ABB.exe
+C:\Users\Betania\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\bin\Debug\ABB.pdb
+C:\Users\Betania\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\obj\Debug\ABB.csproj.AssemblyReference.cache
+C:\Users\Betania\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\obj\Debug\ABB.csproj.CoreCompileInputs.cache
+C:\Users\Betania\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\obj\Debug\ABB.exe
+C:\Users\Betania\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\obj\Debug\ABB.pdb
+C:\Users\Pablo\OneDrive - Universidad Juarez Autonoma de Tabasco\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\bin\Debug\ABB.exe.config
+C:\Users\Pablo\OneDrive - Universidad Juarez Autonoma de Tabasco\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\bin\Debug\ABB.exe
+C:\Users\Pablo\OneDrive - Universidad Juarez Autonoma de Tabasco\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\bin\Debug\ABB.pdb
+C:\Users\Pablo\OneDrive - Universidad Juarez Autonoma de Tabasco\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\obj\Debug\ABB.csproj.AssemblyReference.cache
+C:\Users\Pablo\OneDrive - Universidad Juarez Autonoma de Tabasco\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\obj\Debug\ABB.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\OneDrive - Universidad Juarez Autonoma de Tabasco\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\obj\Debug\ABB.exe
+C:\Users\Pablo\OneDrive - Universidad Juarez Autonoma de Tabasco\Desktop\arbol-rojo-negroEntrega\arbolesRojo-negro2.0\AVL\ABB\obj\Debug\ABB.pdb
